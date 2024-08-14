@@ -2,21 +2,21 @@ export const TESTIMONIALS = [
   {
     imgSrc: "/johndoe.jpg",
     name: "John Doe",
-    occupation: "Creative Writer • Freelance",
+    occupation: "DevOps Engineer • KalKey",
     review:
       '"I’ve had the pleasure of using StockBot, and what truly stood out was its natural conversational flow. Unlike other chatbots, StockBot seamlessly adapts to different contexts, making interactions feel like genuine conversations. It’s like having a knowledgeable friend on standby."',
   },
   {
     imgSrc: "/abbysmith.jpg",
     name: "Abby Smith",
-    occupation: "Lead Project Manager • Google",
+    occupation: "Lead Tech • Google",
     review:
       '"StockBot seamlessly adjusts to various contexts, making interactions feel like genuine conversations. It effortlessly tailors its responses, ensuring a personalized experience for users."',
   },
   {
     imgSrc: "/craignelson.jpg",
     name: "Craig Nelson",
-    occupation: "Sales Executive • Apple Inc.",
+    occupation: "Snr SWE • Apple Inc.",
     review:
       '"As a user of StockBot, I’ve experienced its remarkable ability across diverse contexts, imbuing interactions with an authentic conversational quality. Its responses flow effortlessly, customizing each engagement to deliver a uniquely personalized user experience."',
   },
