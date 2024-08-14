@@ -64,7 +64,7 @@ export function SignInPricingButton() {
   };
   return (
     <Button onClick={handleClick} className="w-full" size="lg">
-      Sign Up
+      Sign In
     </Button>
   );
 }

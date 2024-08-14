@@ -1,5 +1,5 @@
 const CURRENCY_FORMATTER = new Intl.NumberFormat(undefined, {
-  currency: "ZAR",
+  currency: "GBP",
   style: "currency",
 });
 

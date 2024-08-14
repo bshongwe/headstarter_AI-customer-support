@@ -39,7 +39,7 @@ export default async function Header() {
                 Demo
               </Link>
               <Link
-                href={"https://github.com/bshongwe/headstarter_AI-customer-support"}
+                href={"https://github.com/TheHamzaDev/Nuro-AI"}
                 target="_blank"
                 className="transition-colors hover:text-foreground/80 text-foreground/60 text-sm"
               >

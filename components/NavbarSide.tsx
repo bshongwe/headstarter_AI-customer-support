@@ -24,7 +24,7 @@ export default function NavbarSide() {
               Demo
             </Link>
             <Link
-              href={"https://www.github.com/bshongwe"}
+              href={"https://www.github.com"}
               target="_blank"
               className="text-foreground font-medium text-sm inline-flex justify-start"
             >

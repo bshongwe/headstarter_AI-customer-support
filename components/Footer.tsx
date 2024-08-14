@@ -34,7 +34,7 @@ export default function Footer() {
         <Separator />
         <div className="w-full flex flex-col sm:flex-row items-center justify-between gap-y-8 pt-6">
           <p className="text-foreground/60 font-light text-xs text-center">
-            © Ernest B. Shongwe | Headstart Software Engineering Fellowship | Track B
+            © Copyright 2024. All rights reserved.
           </p>
           <div className="flex gap-x-6 text-foreground/60">
             <TwitterLogoIcon />
