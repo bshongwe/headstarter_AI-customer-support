@@ -11,10 +11,10 @@ export default function ChatBot() {
     <section className="pt-12 pb-32">
       <div className="max-w-3xl m-auto text-left pb-12 px-4">
         <h1 className="font-bold text-2xl md:text-4xl">
-          Start your conversation with Nuro.
+          Start your conversation with StockBot.
         </h1>
         <p className="font-medium text-sm md:text-base text-foreground/60 max-w-lg pt-6">
-          With Nuro, you can enjoy smart, friendly, and convenient communication
+          With StockBot, you can enjoy smart, friendly, and convenient communication
           anytime, anywhere.
         </p>
       </div>

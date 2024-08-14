@@ -42,7 +42,7 @@ export default function Hero() {
           viewport={{ once: true }}
         >
           <p className="font-normal text-sm md:text-base text-foreground/60 text-center max-w-lg">
-            Nuro allows you to have conversations with our ChatBot. Simply ask a
+            StockBot allows you to have conversations with our ChatBot. Simply ask a
             question and watch the magic happen.
           </p>
         </motion.div>
@@ -58,7 +58,7 @@ export default function Hero() {
               Start For Free <ArrowRightIcon />
             </Button>
           </Link>
-          <Link href={"https://github.com/TheHamzaDev/Nuro-AI"} target="_blank">
+          <Link href={"https://github.com/bshongwe/headstarter_AI-customer-support"} target="_blank">
             <Button
               className="flex gap-x-2 shadow-md w-48 sm:w-auto"
               size="lg"
@@ -75,7 +75,7 @@ export default function Hero() {
           viewport={{ once: true }}
         >
           <p className="text-xs text-center -mt-3 text-foreground/60">
-            Nuro works wherever you are.{" "}
+            StockBot works wherever you are.{" "}
             <Link
               href={"/chat"}
               className="text-foreground border-b border-foreground border-dashed"

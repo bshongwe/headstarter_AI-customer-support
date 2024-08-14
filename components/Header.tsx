@@ -28,7 +28,7 @@ export default async function Header() {
             <Link href={"/"}>
               <div className="flex items-center gap-x-1">
                 <ComponentBooleanIcon className="h-[1.2rem] w-[1.2rem]" />
-                <h1 className="font-extrabold text-lg">Nuro</h1>
+                <h1 className="font-extrabold text-lg">StockBot</h1>
               </div>
             </Link>
             <div className="hidden sm:flex items-center gap-x-4">
@@ -39,7 +39,7 @@ export default async function Header() {
                 Demo
               </Link>
               <Link
-                href={"https://github.com/TheHamzaDev/Nuro-AI"}
+                href={"https://github.com/bshongwe/headstarter_AI-customer-support"}
                 target="_blank"
                 className="transition-colors hover:text-foreground/80 text-foreground/60 text-sm"
               >

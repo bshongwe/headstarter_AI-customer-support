@@ -1,6 +1,6 @@
-# 🤖 Nuro AI
+# 🤖 StockBot AI
 
-Nuro AI is an AI-powered chatbot SaaS that leverages OpenAI's GPT-3 to provide
+StockBot AI is an AI-powered chatbot SaaS that leverages OpenAI's GPT-3 to provide
 users with a powerful and intuitive platform for gathering information and
 communicating effectively. Users can interact freely with the chatbot to ask
 questions, receive answers, and engage in meaningful conversations. The
@@ -10,7 +10,7 @@ subscription-based services through Stripe.
 
 ## ✨ Features
 
-- 🤖 **AI-Powered Conversations:** Interact with Nuro AI using OpenAI's GPT-3
+- 🤖 **AI-Powered Conversations:** Interact with StockBot AI using OpenAI's GPT-3
 model to get insightful responses and information.
 - 🔒 **User Authentication:** Secure and seamless login using Google accounts,
 powered by NextAuth.js.
@@ -85,11 +85,11 @@ Ensure you have the following installed:
     ```
 <br></br>
 5. **Open your browser:**
-    Navigate to [http://localhost:3000](http://localhost:3000) to see Nuro AI in action.
+    Navigate to [http://localhost:3000](http://localhost:3000) to see StockBot AI in action.
 <br></br>
 
 ### 🌐 Deployment
-Nuro AI is optimized for deployment on Vercel. To deploy:
+StockBot AI is optimized for deployment on Vercel. To deploy:
 
 1. Push your repository to GitHub, GitLab, or Bitbucket.
 2. Import the project into your Vercel account.
@@ -98,8 +98,8 @@ Nuro AI is optimized for deployment on Vercel. To deploy:
 <br></br>
 
 ### 💬 Usage
-- 💬 **Chat with Nuro AI:** Simply type your questions or commands in the chat
-interface and Nuro AI will provide responses using GPT-3.
+- 💬 **Chat with StockBot AI:** Simply type your questions or commands in the chat
+interface and StockBot AI will provide responses using GPT-3.
 - 👤 **Manage Account:** Log in via Google to manage your account settings and
 subscription plan.
 - 💳 **Subscribe:** Choose a monthly plan and process payments securely through
@@ -107,7 +107,7 @@ Stripe.
 <br></br>
 
 ## 🤝 Contributing
-We welcome contributions! If you'd like to contribute to Nuro AI, please fork
+We welcome contributions! If you'd like to contribute to StockBot AI, please fork
 the repository and create a pull request with your changes. Ensure your code
 follows the existing coding standards and is well-documented.
 
