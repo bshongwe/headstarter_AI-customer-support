@@ -19,7 +19,7 @@
     "and": "^0.0.3",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
-    "framer-motion": "^11.0.5",
+    "framer-motion": "^11.18.2",
     "next": "15.2.2",
     "next-auth": "^4.24.9",
     "next-themes": "^0.2.1",
