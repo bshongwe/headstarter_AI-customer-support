@@ -1,3 +1,5 @@
+![Visits Badge](https://hits.sh/github.com/bshongwe/headstarter_AI-customer-support.svg?style=flat-square&label=Visits&color=blue)
+
 # 🤖 StockBot AI
 
 StockBot AI is an AI-powered chatbot SaaS that leverages OpenAI's GPT-3 to provide
